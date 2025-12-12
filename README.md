@@ -69,8 +69,11 @@ In the rapidly evolving digital landscape, cyber threats have become increasingl
 ## Contribution
 Contributions are welcome! Feel free to fork the repository and submit a pull request for any improvements or bug fixes.
 
+
 ## References
 - Cybersecurity Ventures, “Cybercrime Report 2025”
 - Gartner, “Cloud Security Trends 2025”
 - Open-source datasets for network and cyber threat analysis
 - Research articles on AI applications in cybersecurity and cloud security
+ 
+- 
