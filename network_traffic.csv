@@ -1,0 +1,6 @@
+packet_size,connection_time,login_attempts,threat
+120,60,1,0
+300,200,5,1
+100,45,0,0
+500,300,10,1
+150,80,2,0
